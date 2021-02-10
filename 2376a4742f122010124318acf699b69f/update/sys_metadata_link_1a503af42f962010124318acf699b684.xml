@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>f636fc302f522010124318acf699b69a</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="x_408703_train_training">
+    <x_408703_train_training action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <activity_due/>
+        <additional_assignee_list/>
+        <approval>not requested</approval>
+        <approval_history/>
+        <approval_set/>
+        <assigned_to display_value="Jim Ranzetti">62d4a181c0a8010e0189dd6ec22324a2</assigned_to>
+        <assignment_group/>
+        <business_duration/>
+        <business_service/>
+        <calendar_duration/>
+        <close_notes/>
+        <closed_at/>
+        <closed_by/>
+        <cmdb_ci display_value="Java Application Server FLX">82992eb60ad337024fbb6d06a866c636</cmdb_ci>
+        <comments/>
+        <comments_and_work_notes/>
+        <company/>
+        <contact_type/>
+        <contract/>
+        <correlation_display/>
+        <correlation_id/>
+        <delivery_plan/>
+        <delivery_task/>
+        <description>The new JAVA application pitchers at the last JAVA update </description>
+        <due_date/>
+        <escalation>0</escalation>
+        <expected_start/>
+        <follow_up/>
+        <group_list/>
+        <impact>3</impact>
+        <knowledge>false</knowledge>
+        <location/>
+        <made_sla>true</made_sla>
+        <number>TRA0001011</number>
+        <opened_at>2021-02-10 11:34:25</opened_at>
+        <opened_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</opened_by>
+        <order/>
+        <parent display_value="CHG0000011">87a143900a0a2c3e386e50e022df4c99</parent>
+        <priority>2</priority>
+        <reassignment_count>0</reassignment_count>
+        <rejection_goto/>
+        <route_reason/>
+        <service_offering/>
+        <short_description>New JAVA application pitchers </short_description>
+        <sla_due/>
+        <state>1</state>
+        <sys_class_name>x_408703_train_training</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-10 11:35:50</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f636fc302f522010124318acf699b69a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-10 11:39:51</sys_updated_on>
+        <task_effective_number>TRA0001011</task_effective_number>
+        <time_worked/>
+        <trainer/>
+        <universal_request/>
+        <upon_approval>proceed</upon_approval>
+        <upon_reject>cancel</upon_reject>
+        <urgency>3</urgency>
+        <user_input/>
+        <variables/>
+        <watch_list/>
+        <wf_activity/>
+        <work_end/>
+        <work_notes/>
+        <work_notes_list/>
+        <work_start/>
+    </x_408703_train_training>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-10 20:27:58</sys_created_on>
+        <sys_id>1a503af42f962010124318acf699b684</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TRA0001011</sys_name>
+        <sys_package display_value="Train" source="x_408703_train">2376a4742f122010124318acf699b69f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Train">2376a4742f122010124318acf699b69f</sys_scope>
+        <sys_update_name>sys_metadata_link_1a503af42f962010124318acf699b684</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-10 20:27:58</sys_updated_on>
+        <tablename>x_408703_train_training</tablename>
+    </sys_metadata_link>
+</record_update>
