@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>Application for companies using ServiceNow to manage their employees' trainings</description>
+        <device_type>browser</device_type>
+        <hint>Application for companies using ServiceNow to manage their employees' trainings</hint>
+        <name/>
+        <order/>
+        <roles>x_408703_train.train_admin</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-10 10:28:46</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0537ac742f122010124318acf699b6e9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Train</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Train" source="x_408703_train">2376a4742f122010124318acf699b69f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Train">2376a4742f122010124318acf699b69f</sys_scope>
+        <sys_update_name>sys_app_application_0537ac742f122010124318acf699b6e9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-10 10:28:46</sys_updated_on>
+        <title>Train</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
