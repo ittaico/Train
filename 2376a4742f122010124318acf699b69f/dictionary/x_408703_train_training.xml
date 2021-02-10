@@ -1,3 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="Training" max_length="40" name="x_408703_train_training" type="collection"/>
+    <element extends="task" label="Training" max_length="40" name="x_408703_train_training" sizeclass="0" type="collection">
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#9;var user_id = current.getValue('assigned_to');&#13;&#10;&#9;var gr_assigend_to = new GlideRecord ('sys_user');&#13;&#10;&#9;gr_assigend_to.addQuery('sys_id', user_id);&#13;&#10;&#9;gr_assigend_to.query();&#13;&#10;&#9;gr_assigend_to.next();&#13;&#10;&#9;var user_department  = gr_assigend_to.department;&#13;&#10;&#9;var gr_dep = new GlideRecord ('cmn_department');&#13;&#10;&#9;gr_dep.addQuery('sys_id',user_department);&#13;&#10;&#9;gr_dep.query();&#13;&#10;&#9;gr_dep.next();&#13;&#10;&#9;return gr_dep.u_trainer;&#13;&#10;&#13;&#10;&#13;&#10;&#13;&#10;})(current);" label="Trainer" mandatory="true" max_length="32" name="trainer" read_only="true" reference="sys_user" type="reference" virtual="true"/>
+    </element>
 </database>
