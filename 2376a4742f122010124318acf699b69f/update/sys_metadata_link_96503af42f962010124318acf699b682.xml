@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>e8937cbc2f122010124318acf699b68f</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="x_408703_train_training">
+    <x_408703_train_training action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <activity_due/>
+        <additional_assignee_list/>
+        <approval>not requested</approval>
+        <approval_history/>
+        <approval_set/>
+        <assigned_to display_value="Ron Kettering">62d78687c0a8010e00b3d84178adc913</assigned_to>
+        <assignment_group/>
+        <business_duration/>
+        <business_service/>
+        <calendar_duration/>
+        <close_notes/>
+        <closed_at/>
+        <closed_by/>
+        <cmdb_ci display_value="*BOW-IBM">25fd3c8437201000deeabfc8bcbe5dea</cmdb_ci>
+        <comments/>
+        <comments_and_work_notes/>
+        <company/>
+        <contact_type/>
+        <contract/>
+        <correlation_display/>
+        <correlation_id/>
+        <delivery_plan/>
+        <delivery_task/>
+        <description>The training will be the first the step to understand the IBM architecture </description>
+        <due_date/>
+        <escalation>0</escalation>
+        <expected_start/>
+        <follow_up/>
+        <group_list/>
+        <impact>3</impact>
+        <knowledge>false</knowledge>
+        <location/>
+        <made_sla>true</made_sla>
+        <number>TRA0001006</number>
+        <opened_at>2021-02-10 11:22:48</opened_at>
+        <opened_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</opened_by>
+        <order/>
+        <parent display_value="CHG0000012">87a4037a0a0a2c3e4f9c822ac29cb2ed</parent>
+        <priority>3</priority>
+        <reassignment_count>0</reassignment_count>
+        <rejection_goto/>
+        <route_reason/>
+        <service_offering/>
+        <short_description>IBM server application training</short_description>
+        <sla_due/>
+        <state>1</state>
+        <sys_class_name>x_408703_train_training</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-10 11:24:44</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e8937cbc2f122010124318acf699b68f</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-10 16:47:52</sys_updated_on>
+        <task_effective_number>TRA0001006</task_effective_number>
+        <time_worked/>
+        <trainer display_value="Abel Tuter">62826bf03710200044e0bfc8bcbe5df1</trainer>
+        <universal_request/>
+        <upon_approval>proceed</upon_approval>
+        <upon_reject>cancel</upon_reject>
+        <urgency>3</urgency>
+        <user_input/>
+        <variables/>
+        <watch_list/>
+        <wf_activity/>
+        <work_end/>
+        <work_notes/>
+        <work_notes_list/>
+        <work_start/>
+    </x_408703_train_training>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-10 20:27:58</sys_created_on>
+        <sys_id>96503af42f962010124318acf699b682</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TRA0001006</sys_name>
+        <sys_package display_value="Train" source="x_408703_train">2376a4742f122010124318acf699b69f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Train">2376a4742f122010124318acf699b69f</sys_scope>
+        <sys_update_name>sys_metadata_link_96503af42f962010124318acf699b682</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-10 20:27:58</sys_updated_on>
+        <tablename>x_408703_train_training</tablename>
+    </sys_metadata_link>
+</record_update>
